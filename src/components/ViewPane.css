@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "scoreboard";
+  src: local("scoreboard"), url("../fonts/scoreboard.ttf") format("truetype");
+}
+
+.viewpane {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.resizeToScreen {
+  font-size: 63vmin;
+  height: 100%;
+  width: 100%;
+}
+
+.label {
+  display: flex;
+  color: gray;
+  font-size: 7vmin;
+  font-family: sans-serif;
+  justify-content: center;
+  font-style: italic;
+  text-transform: uppercase;
+  margin-top: auto;
+}
+
+.content {
+  display: flex;
+  font-family: "scoreboard";
+  color: red;
+  justify-content: center;
+  line-height: 1;
+  text-shadow: 1px 0px 50px red, -1px 0px 3px red;
+  
+}
+
+
