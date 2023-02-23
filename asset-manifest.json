@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/scoreboardDataDisplayApp/static/css/main.44b86d31.chunk.css",
+    "main.js": "/scoreboardDataDisplayApp/static/js/main.6f9fd809.chunk.js",
+    "main.js.map": "/scoreboardDataDisplayApp/static/js/main.6f9fd809.chunk.js.map",
+    "runtime-main.js": "/scoreboardDataDisplayApp/static/js/runtime-main.f97f16e0.js",
+    "runtime-main.js.map": "/scoreboardDataDisplayApp/static/js/runtime-main.f97f16e0.js.map",
+    "static/js/2.40865120.chunk.js": "/scoreboardDataDisplayApp/static/js/2.40865120.chunk.js",
+    "static/js/2.40865120.chunk.js.map": "/scoreboardDataDisplayApp/static/js/2.40865120.chunk.js.map",
+    "index.html": "/scoreboardDataDisplayApp/index.html",
+    "static/css/main.44b86d31.chunk.css.map": "/scoreboardDataDisplayApp/static/css/main.44b86d31.chunk.css.map",
+    "static/js/2.40865120.chunk.js.LICENSE.txt": "/scoreboardDataDisplayApp/static/js/2.40865120.chunk.js.LICENSE.txt",
+    "static/media/ViewPane.css": "/scoreboardDataDisplayApp/static/media/scoreboard.3071fac6.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f97f16e0.js",
+    "static/js/2.40865120.chunk.js",
+    "static/css/main.44b86d31.chunk.css",
+    "static/js/main.6f9fd809.chunk.js"
+  ]
+}
